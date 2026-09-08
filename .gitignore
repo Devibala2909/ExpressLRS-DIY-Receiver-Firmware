@@ -7,4 +7,5 @@ src/src/fhss_freqs.h
 src/.vscode
 src/data/*.ini
 src/data/*.json
-src/hardware
+# src/hardware
+!src/hardware/RX/*.json
